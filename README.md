@@ -1,3 +1,10 @@
+
+
+
+[![DOI](https://zenodo.org/badge/567716979.svg)](https://zenodo.org/badge/latestdoi/567716979)
+
+
+
 # adorNER
 
 This is a multi-ontology concept recognition model. It takes OBO ontologies as inputs, and trains a text classifier for identifying specific ontology terms in text. 
