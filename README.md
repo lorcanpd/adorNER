@@ -70,7 +70,7 @@ Example annotation parameter json:
     "hub_dir": "elmo",
     "model_dir": "directory/of/trained/model",
     "input_dir": "directory/containing/txt/files",
-    "output_dir": "directory/to/output/identifyied/ontology/terms",
+    "output_dir": "directory/to/output/identified/ontology/terms",
     "threshold": 0.55,
     "max_rows": -1
 }
